@@ -31,6 +31,7 @@ int main()
     printf("Year: ");
     printf("%i\n", (int) n);
     printf("\n");
+    printf("\n");
 
     return 0;
 }
