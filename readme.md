@@ -10,9 +10,9 @@ current population : $c$
 
 change between year (n-1) and year (n) : 
 
-$ c_n=c_{n-1}+c_{n-1} \cdot \frac{1}{3}-c_{n-1} \cdot \frac{1}{4}=c_{n-1}+c_{n-1} \cdot \frac{1}{12} $
+$c_n=c_{n-1}+c_{n-1} \cdot \frac{1}{3}-c_{n-1} \cdot \frac{1}{4}=c_{n-1}+c_{n-1} \cdot \frac{1}{12}$
 
-let $ p = \frac{1}{12} $, so if we rewrite we get:
+let $p = \frac{1}{12}$, so if we rewrite we get:
 
 $c_n= c_{n-1}+c_{n-1} \cdot p$
 
